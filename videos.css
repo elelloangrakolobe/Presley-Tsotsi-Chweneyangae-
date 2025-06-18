@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+}
+
+header {
+  background: #333;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+nav {
+  background: #555;
+  padding: 10px;
+  text-align: center;
+}
+
+.container {
+  padding: 20px;
+}
+
+.gallery img {
+  width: 200px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.video iframe {
+  width: 100%;
+  max-width: 560px;
+  margin-bottom: 20px;
+}
